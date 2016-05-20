@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'jhe_newsratings'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+            
+			<label index="tx_jhenewsratings_domain_model_data">Data</label>
+			<label index="tx_jhenewsratings_domain_model_data.reference">Reference</label>
+			<label index="tx_jhenewsratings_domain_model_data.rating">Rating</label>
+			<label index="tx_jhenewsratings_domain_model_data.votecount">Votecount</label>
+
+		</languageKey>
+	</data>
+</T3locallang>

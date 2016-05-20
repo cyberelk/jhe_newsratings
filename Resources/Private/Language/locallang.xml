@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for the Ratings for News extension in the FRONTEND</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_jhenewsratings_domain_model_data">Data</label>
+			<label index="tx_jhenewsratings_domain_model_data.reference">reference</label>
+			<label index="tx_jhenewsratings_domain_model_data.rating">rating</label>
+			<label index="tx_jhenewsratings_domain_model_data.votecount">votecount</label>
+		</languageKey>
+	</data>
+</T3locallang>
